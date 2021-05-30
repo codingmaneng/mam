@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1c8db5c.chunk.css",
+    "main.js": "/static/js/main.82a49d14.chunk.js",
+    "main.js.map": "/static/js/main.82a49d14.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86cce8db.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86cce8db.js.map",
+    "static/js/2.2f5537e5.chunk.js": "/static/js/2.2f5537e5.chunk.js",
+    "static/js/2.2f5537e5.chunk.js.map": "/static/js/2.2f5537e5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a1c8db5c.chunk.css.map": "/static/css/main.a1c8db5c.chunk.css.map",
+    "static/js/2.2f5537e5.chunk.js.LICENSE.txt": "/static/js/2.2f5537e5.chunk.js.LICENSE.txt",
+    "static/media/afsddaf.51495173.png": "/static/media/afsddaf.51495173.png",
+    "static/media/afsddaf2.9f863728.png": "/static/media/afsddaf2.9f863728.png",
+    "static/media/apendix.80d79a28.gif": "/static/media/apendix.80d79a28.gif",
+    "static/media/calc_image.b10970e3.jpg": "/static/media/calc_image.b10970e3.jpg",
+    "static/media/changenobackground.7200d2af.png": "/static/media/changenobackground.7200d2af.png",
+    "static/media/changenobackgroundnotext.8e6bf963.png": "/static/media/changenobackgroundnotext.8e6bf963.png",
+    "static/media/chrome_boOF6Z1zKz.ee20d2b7.png": "/static/media/chrome_boOF6Z1zKz.ee20d2b7.png",
+    "static/media/customize2.2550f4dc.png": "/static/media/customize2.2550f4dc.png",
+    "static/media/customize3.f6c81f1e.png": "/static/media/customize3.f6c81f1e.png",
+    "static/media/customized.dff623dc.png": "/static/media/customized.dff623dc.png",
+    "static/media/eye area no background with text.c6d755e0.png": "/static/media/eye area no background with text.c6d755e0.png",
+    "static/media/eye area no background.b3f75ea0.jpg": "/static/media/eye area no background.b3f75ea0.jpg",
+    "static/media/finalmorph.fa101c4b.png": "/static/media/finalmorph.fa101c4b.png",
+    "static/media/grooming advice.463388af.png": "/static/media/grooming advice.463388af.png",
+    "static/media/groomingadvice2.42bdbae1.jpg": "/static/media/groomingadvice2.42bdbae1.jpg",
+    "static/media/logolight3.595e7032.png": "/static/media/logolight3.595e7032.png",
+    "static/media/marquardmark original background removed with markups.d01e3f34.png": "/static/media/marquardmark original background removed with markups.d01e3f34.png",
+    "static/media/marquardmark original background removed.6ff2c293.png": "/static/media/marquardmark original background removed.6ff2c293.png",
+    "static/media/newmorphimages.fe8120cf.gif": "/static/media/newmorphimages.fe8120cf.gif",
+    "static/media/pone.0153083.g002.07291213.jpg": "/static/media/pone.0153083.g002.07291213.jpg",
+    "static/media/testgif.fc51a90b.gif": "/static/media/testgif.fc51a90b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86cce8db.js",
+    "static/js/2.2f5537e5.chunk.js",
+    "static/css/main.a1c8db5c.chunk.css",
+    "static/js/main.82a49d14.chunk.js"
+  ]
+}
